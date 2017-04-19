@@ -8,8 +8,3 @@ this is my first code;
 
 gaolegefenzio
 fenzidierchitijiao
-<<<<<<< HEAD
-Your branch is ahead of 'origin/master' by 1 commit.
-=======
-Creating a new branch is quick AND simple.
->>>>>>> 2017041191546
